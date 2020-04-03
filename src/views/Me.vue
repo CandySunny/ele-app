@@ -1,5 +1,5 @@
 <template>
-  <div class="home">首页</div>
+  <div class="me">我的</div>
 </template>
 
 <script>
@@ -7,6 +7,6 @@
 // import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
-  name: "home"
+  name: "me"
 };
 </script>

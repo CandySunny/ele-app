@@ -33,7 +33,7 @@
 <script>
 import InputGroup from "../components/InputGroup"
 export default {
-  name: "Login",
+  name: "login",
   data() {
     return {
       phoneNum: '',
